@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXmYB9Gt3sEvFX7MKzhOPahHhN2wvMZJngSPPJIoYmI93NFMjuAGJ7VmSK80vZ2tLxXybYe1b7rSPdLNJLRajQ==",
+  "success": true,
+  "projectFilePath": "/Users/muratyurtdas/Projects/Mangoo/Services/Mangoo.Services.CouponApi/Mangoo.Services.CouponApi.csproj",
+  "expectedPackageFiles": [
+    "/Users/muratyurtdas/.nuget/packages/microsoft.aspnetcore.openapi/7.0.5/microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "/Users/muratyurtdas/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/muratyurtdas/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/muratyurtdas/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/muratyurtdas/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/muratyurtdas/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/muratyurtdas/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
